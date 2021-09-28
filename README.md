@@ -1,2 +1,2 @@
-# first-commite
+# first-commit
 commit 1
